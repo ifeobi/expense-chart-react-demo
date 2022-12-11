@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-chart-react-demo/static/css/main.71cc677a.css",
+    "main.js": "/expense-chart-react-demo/static/js/main.072e09e4.js",
+    "index.html": "/expense-chart-react-demo/index.html",
+    "main.71cc677a.css.map": "/expense-chart-react-demo/static/css/main.71cc677a.css.map",
+    "main.072e09e4.js.map": "/expense-chart-react-demo/static/js/main.072e09e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71cc677a.css",
+    "static/js/main.072e09e4.js"
+  ]
+}
